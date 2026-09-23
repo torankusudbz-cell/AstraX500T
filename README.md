@@ -217,3 +217,4 @@ Estoy abierto a colaboraciones en:
 - prototipos y demos
 
 Tu participación es bienvenida.
+Aquí dejo otra vez el enlace porque no se ha subido bien: [IA MOE.docx](https://github.com/user-attachments/files/32555417/IA.MOE.docx)
