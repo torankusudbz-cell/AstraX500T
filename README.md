@@ -203,3 +203,17 @@ Prototipo AstraX5X
 Demo del agente (opcional)
 
 Contacto para colaboración
+## 👥 Contacto para colaboración
+
+Si deseas colaborar en el proyecto AstraX500T, proponer mejoras o participar en el desarrollo
+de la versión reducida AstraX5X, puedes abrir un **Issue** en este repositorio o enviar un
+**Pull Request** con tus aportes.
+
+Estoy abierto a colaboraciones en:
+- arquitectura de modelos MoE
+- agentes inteligentes
+- diseño de sistemas de razonamiento
+- documentación técnica
+- prototipos y demos
+
+Tu participación es bienvenida.
